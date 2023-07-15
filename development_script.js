@@ -115,7 +115,7 @@ if (_loadersList.length) {
 }
 
 $('body').on('click', '.viewloader', function() {
-    var url = "file:///C:/Users/CODECLOUDS-ARINDAM/Desktop/CBOT/custom-loader-jquery-plugin/view.html?loader=" + $(this).attr('id');
+    var url = "https://dev-arindam-roy.github.io/jquery-loader/view.html?loader=" + $(this).attr('id');
     window.open(url, "_blank");
 });
 
