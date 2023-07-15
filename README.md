@@ -1,5 +1,5 @@
 # jQuery-loader
-Awesome 30+ jquery page loaders
+Awesome 30+ SVG Page Loader/Spinner
 
 ## Check the Demos
 <a href="https://dev-arindam-roy.github.io/jquery-loader/">All Loaders</a>
